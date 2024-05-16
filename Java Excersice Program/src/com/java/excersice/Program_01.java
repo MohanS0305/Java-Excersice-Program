@@ -8,7 +8,7 @@ import java.util.Scanner;
 		Expected Output:
 		212.0 degree Fahrenheit is equal to 100.0 in Celsius */
 
-public class Program_01 {
+public class Program_1 {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

@@ -9,7 +9,7 @@ import java.util.Scanner;
 		Expected Output:
 		Body Mass Index is 61.30159143458721 */
 
-public class Program_03 {
+public class Program_3 {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

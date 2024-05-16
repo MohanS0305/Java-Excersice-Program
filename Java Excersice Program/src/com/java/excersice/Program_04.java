@@ -7,7 +7,7 @@ import java.util.Scanner;
 		Input six non-negative digits: 123456
 		Expected Output
 		1 2 3 4 5 6  */
-public class Program_04 {
+public class Program_4 {
 
 		public static void main(String[] args) {
 			Scanner input = new Scanner(System.in);

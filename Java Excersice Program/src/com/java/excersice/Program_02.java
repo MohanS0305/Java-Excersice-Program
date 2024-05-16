@@ -8,7 +8,7 @@ import java.util.Scanner;
 		Expected Output
 		3456789 minutes is approximately 6 years and 210 days */
 
-public class Program_02 {
+public class Program_2 {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

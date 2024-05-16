@@ -16,7 +16,7 @@ import java.util.Scanner;
 		Distance of two integers: 20
 		Max integer: 25
 		Min integer: 5 */
-public class Program_05 {
+public class Program_5 {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
@@ -49,4 +49,5 @@ public class Program_05 {
 			System.out.println("Minimum of two integer is : "+b);
 		input.close();
 	}
+	
 }
